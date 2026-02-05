@@ -26,6 +26,10 @@
 - `visualizations/` - Charts
 - `tableau/` - Data for Tableau dashboards (balanced sample: 10,000 fraud + 10,000 legitimate)
 
+## Tableau Dashboard
+
+**Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/ishak.islam/viz/CCFraudDetection_17696696335300/Dashboard?publish=yes)
+
 ## Tools Used
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau

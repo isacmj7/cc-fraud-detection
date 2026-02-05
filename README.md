@@ -41,7 +41,7 @@ Place `creditcard_2023.csv` in the `data/` folder.
 
 ## Tableau Dashboard
 
-**Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/ishak.islam/viz/CCFraudDetection_17696696335300/Dashboard1?publish=yes)
+**Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/ishak.islam/viz/CCFraudDetection_17696696335300/Dashboard?publish=yes)
 
 ## Tech Stack
 
